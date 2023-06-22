@@ -60,7 +60,7 @@ typings/
 # next.js build output
 .next
 
-src/speaker_data.json
+src/speakers.json
 .DS_Store
 tweets/*.txt
 speaker-cards/*.html

@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Sedgwick+Ave+Display&display=swap");
 #speaker-card {
 	background-image: url("./SpeakerCardBackground.png");
 	background-size: 1024px;
@@ -21,7 +22,7 @@
 
 #speaker-card .title {
 	/* font-family: "Trade Winds"; */
-	font-family: "Freckle Face";
+	font-family: "'Sedgwick Ave Display', cursive";
 	color: #ffffff;
 	position: absolute;
 	left: 370px;
